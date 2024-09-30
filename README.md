@@ -16,8 +16,13 @@ Esta aplicación permite a los usuarios:
 
 ## 🛠️ Tecnologías Utilizadas
 
-- **Java**: Lenguaje principal de desarrollo.
-- **Scanner**: Para manejar la entrada del usuario desde la consola.
+- **Java**: Lenguaje principal de desarrollo utilizado para implementar la lógica de la aplicación.
+- **IDE**: Cualquier entorno de desarrollo integrado como **IntelliJ IDEA**, **Eclipse**, o **NetBeans** para escribir y ejecutar el código.
+- **JDK (Java Development Kit)**: Necesario para compilar y ejecutar programas Java.
+- **Scanner**: Clase de Java utilizada para la entrada de datos desde la consola.
+- **ArrayList**: Clase de Java utilizada para almacenar y gestionar la lista de compras realizadas.
+- **Comparator**: Interface de Java utilizada para ordenar las compras según el monto.
+
 
 ## 🏗️ Instalación
 
